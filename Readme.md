@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/OpenStreetMapLesson/MainPage.xaml) (VB: [MainPage.xaml](./VB/OpenStreetMapLesson/MainPage.xaml))
+<!-- default file list end -->
 # Getting Started - Lesson 2 - Connecting a Map Control to OpenStreetMap
 
 
